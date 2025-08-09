@@ -1,0 +1,17 @@
+python-dotenv
+langchain
+llama-cloud-services
+langchain-huggingface
+langchain-groq
+langchain_chroma
+sentence-transformers
+llama-index
+chromadb
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+
+#for test file
+docx2txt
+pandas
+openpyxl
