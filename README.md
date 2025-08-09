@@ -53,6 +53,3 @@ requirements.txt       # Python dependencies
 ## Requirements
 - Python 3.8+
 - See `requirements.txt` for all dependencies.
-
-## License
-This project is for educational purposes.
