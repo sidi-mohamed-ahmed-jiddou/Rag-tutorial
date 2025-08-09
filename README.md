@@ -49,8 +49,6 @@ requirements.txt       # Python dependencies
 
 ## Notes
 - Place your source documents (PDFs, text files) in the `data/` folder.
-- The project supports conversational querying; type your question at the prompt.
-- To exit, type `exit` or `quit`.
 
 ## Requirements
 - Python 3.8+

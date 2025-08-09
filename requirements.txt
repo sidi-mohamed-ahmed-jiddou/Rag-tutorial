@@ -10,8 +10,3 @@ chromadb
 llama-index-llms-groq
 llama-index-embeddings-huggingface
 llama-index-vector-stores-chroma
-
-#for test file
-docx2txt
-pandas
-openpyxl
